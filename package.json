@@ -1,0 +1,25 @@
+{
+  "name": "contador-reactJS",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aferreiradesouza/contador-reactJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aferreiradesouza/contador-reactJS/issues"
+  },
+  "homepage": "https://github.com/aferreiradesouza/contador-reactJS#readme",
+  "dependencies": {
+    "next": "^10.0.1",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
